@@ -14,7 +14,7 @@ for (let i = 0; i < List.length - 1; i++) {
        leftList.push(List[i]);
    }
    else {
-       rightList.push(List[i])
+       rightList.push(List[i]);
        
    }
 }
